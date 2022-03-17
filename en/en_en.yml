@@ -1,0 +1,1314 @@
+---
+en:
+  nitro:
+    account_selection_page:
+      serial: ""
+      tagline_html: ""
+      title: ""
+    billing:
+      subheader:
+        credit_card: ""
+        direct_debit: ""
+        first_cartridge: ""
+    enable_web_services_step:
+      action: ""
+      connecting: ""
+      error_description_section_html: ""
+      header: ""
+      please_wait: ""
+      subheader: ""
+      try_again_section_html: ""
+    enroll:
+      footnotes:
+        ii_support_link: ""
+        terms_link_text: ""
+      oobe:
+        learn_more_page:
+          features:
+            bullet_1: ""
+            bullet_2: ""
+            bullet_3: ""
+          go_green:
+            diagram:
+              description_1: ""
+              description_2: ""
+              description_3: ""
+              description_4: ""
+              description_5: ""
+            intro_1: ""
+            intro_2: ""
+            title: ""
+          how_it_works:
+            intro: ""
+            step_1:
+              description: ""
+              title: ""
+            step_2:
+              description: ""
+              title: ""
+            step_3:
+              title: ""
+            step_4:
+              description: ""
+              title: ""
+            title: ""
+          most_affordable: ""
+          plans:
+            intro: ""
+            print_info:
+              bullet_1: ""
+              bullet_2: ""
+              bullet_3: ""
+              title: ""
+            title: ""
+          requirements:
+            email_address_text: ""
+            email_address_title: ""
+            internet_connection_text: ""
+            internet_connection_title: ""
+            title: ""
+          save_up_to: ""
+        offers_page:
+          default_offer:
+            detail: ""
+            header: ""
+          free_plan_and_trial_html:
+            one: ""
+            other: ""
+          free_plan_html: ""
+          free_trial_badge_html: ""
+          free_trial_html: ""
+          included: ""
+          learn_more: ""
+          offer_terms: ""
+          printer_features:
+            default_printer_name: ""
+            ink_is_low: ""
+            shipping_included: ""
+            title: ""
+          printer_replacement:
+            existing_customer: ""
+            link_html: ""
+          title: ""
+          with_printer: ""
+        payment_options:
+          add_payment: ""
+          additional_payment_method: ""
+          ending_in: ""
+          enter_credit: ""
+          first_cartridge: ""
+          payment_methods: ""
+          prepaid_success_message: ""
+          select_payment: ""
+          subtitle_html: ""
+          title: ""
+        web_services_modal:
+          do_not_enable: ""
+          enable_web_services: ""
+          title: ""
+          to_continue_html: ""
+          to_sign_up: ""
+    forms:
+      billing_card:
+        address:
+          city: ""
+          company: ""
+          country: ""
+          phone_number: ""
+          same_as_shipping: ""
+          street1: ""
+          street2: ""
+          title: ""
+          use_shipping: ""
+          zip: ""
+        credit_card_name:
+          first_name: ""
+          information: ""
+          last_name: ""
+          title: ""
+        direct_debit:
+          authorization_check_box_html: ""
+          information: ""
+        loading: ""
+        modal_title: ""
+        non_editable_billing_info:
+          add_payment_information_link: ""
+          edit_payment_information_link: ""
+          expires: ""
+          no_payment_information_on_file: ""
+          title: ""
+        page_block:
+          choose_option: ""
+          complete_purchase: ""
+          credit_card_declined: ""
+          enter_billing_info_html: ""
+          ok: ""
+          order_summary: ""
+          order_total: ""
+          place_order: ""
+          purchase_complete: ""
+          save_and_continue: ""
+          system_error: ""
+          tax: ""
+          tax_service_down_modal:
+            button_text: ""
+            description_1: ""
+            description_2: ""
+            header: ""
+          thank_you: ""
+        pay_pal:
+          instructions: ""
+          title: ""
+        payment_switcher:
+          credit_card: ""
+          direct_debit: ""
+          pay_pal: ""
+          two_checkout: ""
+        placeholders:
+          card_number: ""
+          expiration_month: ""
+          expiration_year: ""
+          name_of_bank: ""
+        prepaid:
+          add_to_prepaid_balance: ""
+          agreement: ""
+          balance_added: ""
+          error:
+            already_redeemed_prepaid_html: ""
+            default_error_html: ""
+            enrollment_key_entered_error_html: ""
+            expired_html: ""
+            hybrid_key_requires_payment_method_html: ""
+            invalid_code_error_html: ""
+            promotion_code_entered_error_html: ""
+            wrong_region_html: ""
+          placeholder: ""
+          prepaid_balance: ""
+          title: ""
+          tooltip:
+            content: ""
+            title: ""
+          validated: ""
+        purchasing: ""
+        success_message: ""
+        title: ""
+        two_checkout_modal:
+          failed:
+            body: ""
+            button: ""
+            title: ""
+          loading:
+            body: ""
+            title: ""
+          success:
+            body: ""
+            title: ""
+        validating: ""
+      shipping_card:
+        instruction:
+          ink: ""
+          toner: ""
+        placeholders:
+          address: ""
+          city: ""
+          state: ""
+          zip: ""
+        text_message_opt_in_label: ""
+        title: ""
+    global_header:
+      chat_now: ""
+      navigation_links:
+        faqs: ""
+        how_it_works: ""
+        see_your_savings: ""
+        why_instant_ink: ""
+      virtual_agent: ""
+    oobe_replacement:
+      confirmation_step:
+        free_months_list:
+          months:
+            one: ""
+            other: ""
+          prepaid_months: ""
+          printer_replacement_months: ""
+          promo_months: ""
+          refer_a_friend_months: ""
+          support_award_months: ""
+          trial_free_months: ""
+        hide_details: ""
+        see_details: ""
+        total_free_months: ""
+      enroll_or_replace:
+        enroll_option: ""
+        enroll_popover:
+          bullet_1: ""
+          bullet_2: ""
+          title: ""
+        instruction_html: ""
+        replace_option: ""
+        replace_popover:
+          bullet_1: ""
+          bullet_2: ""
+          bullet_3: ""
+          title: ""
+        title: ""
+      phase4_confirmation_page:
+        billing: ""
+        free_transferring_months:
+          one: ""
+          other: ""
+        new_printer: ""
+        old_printer: ""
+        omni_box:
+          title: ""
+        replacing_printer: ""
+        shipping: ""
+        show_fewer_details: ""
+        show_more_details: ""
+        subheader_html: ""
+        tooltip: ""
+      printer_info:
+        description_html: ""
+        features:
+          feature_1: ""
+          feature_2: ""
+          title: ""
+        learn_more: ""
+        learn_more_popover:
+          hp_instant_ink: ""
+          the_old_printer: ""
+          title: ""
+          your_account_info: ""
+        see_offer_terms: ""
+        serial: ""
+        title: ""
+      sign_in_step:
+        description: ""
+        title: ""
+      thank_you_step:
+        confirmation_email: ""
+        description_html: ""
+        free_month: ""
+        info_list:
+          bullet_0: ""
+          bullet_1: ""
+          bullet_2: ""
+          bullet_3: ""
+        printer_replaced: ""
+        thank_you: ""
+        title: ""
+    oobe_signin_fail:
+      content: ""
+      no_thanks: ""
+      title: ""
+    plans_page:
+      benefits:
+        clear_transparent_pricing:
+          description: ""
+          header: ""
+        never_go_to_the_store:
+          description: ""
+          header: ""
+        risk_free_cancel:
+          description: ""
+          header: ""
+      code_applied_message:
+        ek_html: ""
+        prepaid_html: ""
+      ek_checkbox:
+        activation_code_result:
+          additional_payment_required_html: ""
+          already_redeemed_html: ""
+          already_redeemed_prepaid_html: ""
+          blank_key_html: ""
+          enrollment_key_already_entered_error_html: ""
+          expired_html: ""
+          inactive_code_html: ""
+          invalid_key_html: ""
+          promotion_code_entered_html: ""
+          service_unavailable_html: ""
+          success_multiple_plans_html: ""
+          success_prepaid_plan_html: ""
+          success_prepaid_plan_message_html: ""
+          success_single_plan_html:
+            one: ""
+            other: ""
+          wrong_region_html: ""
+        ek_prepaid_checkbox_label: ""
+        placeholder_ek_prepaid: ""
+        popover_text_ek_prepaid: ""
+        where_to_find_ek_prepaid: ""
+      enter_pin_code: ""
+      have_prepaid_ek_card_question: ""
+      no_instant_ink_option:
+        cartridge_use: ""
+        disable_instant_ink: ""
+        no_instant_ink_html: ""
+      plan_details:
+        free_months:
+          one: ""
+          other: ""
+        microbiz_free_months:
+          one: ""
+          other: ""
+        overage: ""
+        price: ""
+        price_pages: ""
+        price_text: ""
+        rollover: ""
+      select: ""
+      selected: ""
+      terms_link: ""
+      title: ""
+      what_is_prepaid_ek_card: ""
+      what_is_prepaid_ek_card_modal:
+        paragraph1: ""
+        paragraph2: ""
+      woobe:
+        title: ""
+    post_oobe:
+      exit_modal:
+        continue: ""
+        not_complete:
+          ink: ""
+          toner: ""
+    printer_choices_step:
+      family:
+        description: ""
+        how_do_i_find: ""
+        how_do_i_find_modal:
+          model_number: ""
+          model_number_is_located: ""
+        printer_not_listed: ""
+        printer_not_listed_modal:
+          contact_support: ""
+          get_deal: ""
+          join_us: ""
+          need_ink_now: ""
+          not_available: ""
+          only_listed_models: ""
+          title: ""
+        title: ""
+      series:
+        what_is_a_series:
+          description: ""
+          title: ""
+      series_confirmation:
+        description: ""
+        is_this_correct: ""
+        no_change_printer: ""
+        no_change_printer_sans_arrow: ""
+        yes_continue: ""
+    printer_confirmation_page:
+      action: ""
+      footnotes:
+        replacement_bonus: ""
+        transferring_months: ""
+      header: ""
+      new_printer: ""
+      pending: ""
+      plan: ""
+      plan_details: ""
+      prepaid_months: ""
+      promo_months: ""
+      refer_a_friend_months: ""
+      replacing_printer: ""
+      see_details: ""
+      serial_no: ""
+      service_plan: ""
+      subheader_html: ""
+      total_free_months: ""
+      trial_months: ""
+      your_history: ""
+    printer_selection_page:
+      add_another_printer: ""
+      additional_help_claiming_link: ""
+      additional_help_link_html: ""
+      additional_help_link_mobile_html: ""
+      additional_help_link_url: ""
+      call_me_back: ""
+      choose_a_printer: ""
+      claim_box:
+        continue: ""
+        improved_placeholder: ""
+        placeholder: ""
+        placeholder_shortened: ""
+      confirm_page:
+        enable_web_services_modal_link: ""
+        you_may_not: ""
+      connect_step_title: ""
+      cross_selling_text: ""
+      eligible_printers_modal_title: ""
+      enroll_later: ""
+      enroll_more_printers: ""
+      enroll_more_printers_content_details_html: ""
+      enroll_more_printers_content_header: ""
+      enter_claim_code: ""
+      enter_code_instructions: ""
+      errors:
+        already_claimed_code: ""
+        expired_code: ""
+        ineligible_printer: ""
+        offline_printer: ""
+        service_unavailable_html: ""
+        unrecognized_code: ""
+        unsupported_code: ""
+      explore_printer_deals: ""
+      failed_registration:
+        disclaimer_html: ""
+        enable_web_services: ""
+        enable_web_services_modal:
+          additional_help_link_html: ""
+          confirm_settings: ""
+          failure_message: ""
+          final_instruction: ""
+          printer_ready_to_enroll: ""
+          spinner_message: ""
+          step_1: ""
+          step_2_html: ""
+          step_3_html: ""
+          thank_you: ""
+          title: ""
+          web_service_enabled: ""
+        printer_is_connected_html: ""
+        thank_you: ""
+      how_do_i_connect: ""
+      how_to_connect_modal:
+        three_steps:
+          wired:
+            description: ""
+            title: ""
+          wireless:
+            non_touch_screen:
+              description_html: ""
+              title: ""
+            step_1: ""
+            step_2_html: ""
+            step_3_html: ""
+            step_3_set_1_html: ""
+            touch_screen:
+              description_html: ""
+              title: ""
+        title: ""
+        two_steps:
+          disconnect_usb_warning: ""
+          info_icon:
+            step_1_html: ""
+            step_2_html: ""
+            step_3_html: ""
+          wireless:
+            step_1_html: ""
+            step_2_html: ""
+      if_a_page_did_not_print_default_modal:
+        claim_code_location: ""
+        title: ""
+        touchscreen_info: ""
+      if_a_page_did_not_print_modal:
+        printer_display_image_title:
+          printer_claim_code: ""
+          web_services_summary: ""
+        step_1_html: ""
+        step_1_set_1_html: ""
+        step_2: ""
+        step_2_set_1: ""
+        title: ""
+      if_page_does_not_contain_a_code_model:
+        instruction_1: ""
+        instruction_2: ""
+        link_title: ""
+        subheader_1: ""
+        subheader_2: ""
+        title: ""
+      instruct_eprint_page:
+        deskjet_2600_note_html: ""
+        deskjet_3700_note_html: ""
+        if_enabling_web_services_html: ""
+        if_web_services_enabled_html: ""
+        instructions:
+          one_step:
+            action: ""
+            action_set_3: ""
+            action_set_4: ""
+            details: ""
+            hold_button_details: ""
+          two_step:
+            step_1:
+              action: ""
+              details: ""
+            step_2:
+              action: ""
+              details: ""
+        manhattan:
+          instruction_1_html: ""
+          instruction_2: ""
+          instruction_header: ""
+          instruction_reminder_html: ""
+        note: ""
+        press_eprint: ""
+        vasari:
+          step_1_html: ""
+          step_2_html: ""
+        what_if_a_page: ""
+      instruct_wait_page:
+        if_page_has_not_printed: ""
+        if_page_has_printed: ""
+      is_printer_eligible: ""
+      locate_claim_code: ""
+      more_help: ""
+      or_click: ""
+      printer_is_connected: ""
+      see_offer: ""
+      select_title: ""
+      set_up_printer_later: ""
+      signup_state:
+        enrolled_by_other: ""
+        ineligible: ""
+        not_registered: ""
+        offline: ""
+        subscribable: ""
+        subscribable_with_printer_offer:
+          one: ""
+          other: ""
+        subscribed: ""
+        unsubscribing: ""
+      subtitle: ""
+      successes:
+        claimed_printer: ""
+      title: ""
+      try_again: ""
+      warnings:
+        claim_confirmation: ""
+    remind_me:
+      are_you_sure: ""
+      create_account: ""
+      dont_want_ii: ""
+      existing_customer: ""
+      free_trial: ""
+      free_trial_available: ""
+      go_back_link_text: ""
+      if_you_choose_html: ""
+      need_a_reminder: ""
+      no_instant_ink: ""
+      prepaid:
+        go_back: ""
+        skip_prepaid: ""
+        to_redeem: ""
+        you_chose_not_to_activate: ""
+      remind_me: ""
+      replacing_printer: ""
+      set_reminder: ""
+      skip: ""
+      title: ""
+      want_ii: ""
+      you_decided: ""
+    shared:
+      add: ""
+      back: ""
+      cancel: ""
+      code_box:
+        button: ""
+        placeholder: ""
+      confirm: ""
+      continue: ""
+      create_account: ""
+      edit: ""
+      expired_critical_scope_error:
+        message: ""
+      faq_icon: ""
+      generic_error:
+        message: ""
+        skip_ii: ""
+        try_again: ""
+      hp_ii_service_plan: ""
+      hp_ii_service_plan_details: ""
+      modal_layout:
+        close: ""
+      offer_terms: ""
+      ok: ""
+      omnibox:
+        error_messages:
+          additional_payment_required_html: ""
+          already_entered_raf_html: ""
+          already_redeemed_ek_html: ""
+          already_redeemed_html: ""
+          already_redeemed_prepaid_html: ""
+          expired_html: ""
+          generic: ""
+          inactive_html: ""
+          inactive_promotion_code_html: ""
+          inferior_promotion_code_html: ""
+          lups_plan_excluded_html: ""
+          printer_ineligible_raf_html: ""
+          promotion_code_requires_ek_html: ""
+          wrong_region_raf_html: ""
+        success:
+          multiple_promotions_applied: ""
+          promo_code_applied_html: ""
+          promotion_applied: ""
+          referral_applied: ""
+      or: ""
+      phone_number: ""
+      plans:
+        backup_cartridges_text: ""
+        eligible_printers: ""
+        for: ""
+        free: ""
+        frequent: ""
+        heavy: ""
+        light: ""
+        microbiz: ""
+        moderate: ""
+        occasional: ""
+        pages_included: ""
+        print_less_html: ""
+        print_more_html: ""
+        rollover_upto_html: ""
+      prepaid:
+        additional_payment_required_html: ""
+        apply: ""
+        balance_label: ""
+        enter_prepaid_key_label: ""
+        error:
+          already_redeemed_prepaid_html: ""
+          default_error_html: ""
+          different_enrollment_key_already_entered_error_html: ""
+          enrollment_key_entered_error_html: ""
+          expired_html: ""
+          generic_error_html: ""
+          inactive_html: ""
+          invalid_code_html: ""
+          prepaid_key_already_entered_error_html: ""
+          promotion_code_entered_html: ""
+          service_unavailable_html: ""
+          wrong_region_html: ""
+        insufficient_balance: ""
+        insufficient_funds: ""
+        key_placeholder: ""
+        multiple_methods_message_pgs: ""
+        save_and_continue: ""
+        success_message_pgs_html: ""
+        success_message_snapfish_html: ""
+        title_html: ""
+        title_label_html: ""
+      print_plans:
+        ink: ""
+        service_name: ""
+        toner: ""
+      printer: ""
+      refer_a_friend:
+        enjoy_free_month:
+          one: ""
+          other: ""
+        facebook_quote: ""
+        savings_percentage_html: ""
+        your_friend_also:
+          one: ""
+          other: ""
+      save: ""
+      save_and_continue: ""
+      see_offer_terms: ""
+      serial: ""
+      service_name: ""
+      sign_in: ""
+      sign_out: ""
+      sign_up: ""
+      skip: ""
+      smart_app: ""
+      start_paid_service: ""
+      support_phone: ""
+      terms_checkbox:
+        accept_terms_html: ""
+        terms_html: ""
+        terms_not_accepted_error: ""
+      two_checkout_url: ""
+      two_checkout_url_name: ""
+    simplified_enroll:
+      manual_printer_claim:
+        connect:
+          modal:
+            instruction_1: ""
+            instruction_2: ""
+            title: ""
+        eprint:
+          instruction_1: ""
+          instruction_2: ""
+          printer_code: ""
+          web_services: ""
+      offers_page:
+        card_1:
+          description: ""
+          title: ""
+        card_2:
+          description: ""
+          title: ""
+        card_3:
+          description: ""
+          title: ""
+        card_4:
+          description:
+            change_plans: ""
+            no_annual_fee: ""
+            roll_over: ""
+          how_it_works: ""
+          mobile_print_info_html: ""
+          title:
+            one: ""
+            other: ""
+        do_not_enable: ""
+      simplified_form:
+        billing:
+          accepted_cards: ""
+          error_message: ""
+          title: ""
+        omnibox:
+          auto_apply: ""
+          optional: ""
+          placeholder: ""
+          popover_info: ""
+          title: ""
+        plans:
+          change_plan: ""
+          info: ""
+          loading: ""
+          overage: ""
+          selected: ""
+        shipping:
+          error_message: ""
+          title: ""
+        summary:
+          accept_marketing_html: ""
+          accept_prepaid_html: ""
+          auto_apply_title: ""
+          enroll: ""
+          enrolling: ""
+          error_message: ""
+          free: ""
+          free_month_message:
+            one: ""
+            other: ""
+          free_trial_title: ""
+          generic_error: ""
+          instructions: ""
+          instructions_billing_start: ""
+          instructions_xmo2: ""
+          month_message:
+            one: ""
+            other: ""
+          order_total: ""
+          plan_details_html: ""
+          prepaid_message: ""
+          prepaid_not_accepted_error: ""
+          prepaid_title: ""
+          promo_code_title: ""
+          refer_a_friend_title: ""
+          shipping_handling: ""
+          special_offer_title: ""
+          subheader: ""
+          subheader_xmo2: ""
+          total_due: ""
+        title: ""
+      thank_you:
+        access_your_account: ""
+        finish_printer_setup: ""
+        thanks: ""
+      web_services_loading:
+        connecting: ""
+        dont_turn_the_printer_off: ""
+        failure_html: ""
+        please_wait: ""
+        title: ""
+    spinner:
+      please_wait: ""
+    splash:
+      coming_soon:
+        enter_your_code: ""
+        subtitle: ""
+        title: ""
+    summary_page:
+      billing:
+        no_billing: ""
+        prepaid_balance: ""
+        title: ""
+      change_link: ""
+      edit_link: ""
+      enroll:
+        accept_carbon_credit: ""
+        accept_marketing_html: ""
+        accept_prepaid_html: ""
+        due_now_html: ""
+        prepaid_not_accepted_error: ""
+      enrolling: ""
+      generic_error: ""
+      no_longer_eligible_error_html: ""
+      offers:
+        help_content: ""
+        title_html: ""
+      plan:
+        overage_detail: ""
+        plan_detail: ""
+        title: ""
+      printer:
+        title: ""
+      shipping:
+        no_shipping: ""
+        shipping_included: ""
+        title: ""
+      subtitle_1: ""
+      subtitle_2: ""
+      title: ""
+      total:
+        enrollment_key_title: ""
+        free_month_message:
+          one: ""
+          other: ""
+        free_trial_title: ""
+        instruction_prepaid: ""
+        month_message:
+          one: ""
+          other: ""
+        plan_details_html: ""
+        prepaid_amount: ""
+        prepaid_message: ""
+        prepaid_title: ""
+        promo_code_title: ""
+        refer_a_friend_title: ""
+        special_offer_title: ""
+        subheader: ""
+        subheader_xmo2: ""
+        title: ""
+    thank_you_page:
+      account_link: ""
+      carbon_credit: ""
+      details:
+        instruction_keep_in_mind: ""
+        instruction_order: ""
+        instruction_printer_online: ""
+        instruction_replenishment_kit: ""
+        instruction_service_started: ""
+        instruction_welcome_kit: ""
+      notes_list:
+        note_00: ""
+        note_00_warrantied: ""
+        note_01: ""
+      notification: ""
+      partial_enrollment:
+        cant_ship_ink_without_web_services: ""
+        follow_instructions_to_enable_html: ""
+        instruction_sending_welcome_kit_after_web_enabled: ""
+        start_receiving_ink: ""
+        title: ""
+        view_account_page_link: ""
+      printer: ""
+      refer_a_friend:
+        clipboard_copy_button: ""
+        email_link: ""
+        for_every_friend: ""
+        link_copied: ""
+        share_your_referral_link: ""
+        title: ""
+      subtitle: ""
+      title: ""
+      you_are_enrolled: ""
+    unsupported_postal_code:
+      buttons:
+        return: ""
+      message:
+        finish_set_up: ""
+    v2:
+      afu:
+        cancel: ""
+        enroll: ""
+        hp_chip: ""
+        skip_button: ""
+        title: ""
+      app_download:
+        description:
+          change: ""
+          control: ""
+        header: ""
+        set_up_html: ""
+        title:
+          ink_html: ""
+          toner_html: ""
+      enroll:
+        billing:
+          add_billing: ""
+          choose_payment_method: ""
+          expires: ""
+          free_printing:
+            ink:
+              one: ""
+              other: ""
+            toner:
+              one: ""
+              other: ""
+          insufficient_prepaid: ""
+          optional_billing: ""
+          title: ""
+        plans:
+          after_trial: ""
+          info:
+            pages: ""
+          plans_modal:
+            additional_pages: ""
+            most_popular: ""
+            most_popular_mobile: ""
+            pages: ""
+            pages_per_month: ""
+            print_less: ""
+            print_more: ""
+            rollover: ""
+            rollover_ratio: ""
+            select_plan: ""
+            title: ""
+            title_select: ""
+          title: ""
+          view_plans: ""
+        printer:
+          serial: ""
+          title: ""
+        shipping:
+          add_shipping: ""
+          let_us:
+            ink: ""
+            toner: ""
+          title: ""
+        summary:
+          accept_prepaid_html: ""
+          accept_terms_html: ""
+          accordion:
+            hide_details: ""
+            months:
+              one: ""
+              other: ""
+            months_list:
+              enrollment_key: ""
+              free_trial: ""
+              prepaid:
+                one: ""
+                other: ""
+              prepaid_months: ""
+              printer_replacement: ""
+              promo_code: ""
+              refer_a_friend: ""
+              smart_app: ""
+              special_offers: ""
+              support_awarded: ""
+              transferring_months: ""
+            show_details: ""
+            title:
+              one: ""
+              other: ""
+          automatic_renewal:
+            monthly_changes_html: ""
+            monthly_changes_no_phone_html: ""
+            no_benefits_html: ""
+            only_prepaid_html: ""
+            only_trial_html: ""
+            service_will_start_html: ""
+            trial_and_balance_html: ""
+          checkout: ""
+          instruction:
+            no_benefits_html: ""
+            only_prepaid_html: ""
+            only_trial_html: ""
+            trial_and_balance_html: ""
+          offers:
+            help_content: ""
+            title: ""
+            whats_this: ""
+          prepaid_code: ""
+          promo_code: ""
+          title:
+            ink:
+              one: ""
+              other: ""
+            toner:
+              one: ""
+              other: ""
+          update_payment_method:
+            description: ""
+            text: ""
+        title:
+          ink:
+            one: ""
+            other: ""
+          toner:
+            one: ""
+            other: ""
+      enroll_or_replace_modal:
+        account_info: ""
+        add_printer: ""
+        additional_charge: ""
+        enroll_option: ""
+        free_trial:
+          one: ""
+          other: ""
+        no_interruption: ""
+        printer_replaced: ""
+        replace_option: ""
+        subtitle: ""
+        welcome_back: ""
+      offers_page:
+        view_plans: ""
+      printer_eligible:
+        change_printer: ""
+        eligible: ""
+        eligible_printer: ""
+        have_an_account: ""
+        instructions_html: ""
+        new: ""
+        replacement_instructions_html: ""
+        select_continue_html: ""
+        set_up_printer: ""
+      printer_not_listed:
+        not_eligible: ""
+        purchase: ""
+        purchase_printer: ""
+        shop_now: ""
+        sign_in_html: ""
+        title: ""
+      printer_picker:
+        already_have_an_account: ""
+        enter_printer: ""
+        error: ""
+        example: ""
+        printer_selection: ""
+        search: ""
+        title: ""
+        to_begin: ""
+      printer_selection_page:
+        add_another_printer: ""
+        device_not_listed: ""
+        title: ""
+      replacement_account_selection:
+        subheader: ""
+        title: ""
+      replacement_app_download:
+        follow_instructions: ""
+        home_screen: ""
+        select_app_store: ""
+        select_instant_ink: ""
+        title: ""
+      replacement_confirmation:
+        ink_plan: ""
+        new_printer: ""
+        old_printer: ""
+        plan_info: ""
+        replacing_printer: ""
+        serial_no: ""
+        subheader: ""
+        subheader_html: ""
+        title: ""
+      replacement_printer_not_eligible:
+        back_to_account: ""
+        can_still_enroll: ""
+        select_html: ""
+        title: ""
+      replacement_printer_offline:
+        title: ""
+      replacement_printer_selection:
+        subheader_html: ""
+        title: ""
+      replacement_printer_selector:
+        disabled_message:
+          ink: ""
+          toner: ""
+        serial: ""
+      replacement_thank_you:
+        confirmation_email: ""
+        replacement_successful: ""
+      shared:
+        learn_more: ""
+        replacement:
+          ineligible: ""
+          only_replaced: ""
+      thanks:
+        change_or_cancel: ""
+        confirmation: ""
+        instant_supplies: ""
+        online: ""
+        thank_you_for: ""
+        title: ""
+        view_account: ""
+      value_prop:
+        add_shipping: ""
+        expiration:
+          one: ""
+          other: ""
+        flex:
+          free_delivery: ""
+          header_redeem_html:
+            auto_apply: ""
+            free_months:
+              one: ""
+              other: ""
+            free_months_and_auto_apply:
+              one: ""
+              other: ""
+          incentives:
+            auto_apply:
+              ink: ""
+              toner: ""
+            free_months:
+              ink: ""
+              toner: ""
+            free_months_and_auto_apply: ""
+            no_incentives: ""
+          incentives_puf:
+            auto_apply:
+              one: ""
+              other: ""
+            free_months:
+              ink: ""
+              toner: ""
+            free_months_and_auto_apply:
+              one: ""
+              other: ""
+            no_incentives:
+              ink_html: ""
+              toner_html: ""
+          receive:
+            ink: ""
+            toner: ""
+        header_redeem_html:
+          auto_apply: ""
+          free_months:
+            ink:
+              one: ""
+              other: ""
+            toner:
+              one: ""
+              other: ""
+          free_months_and_auto_apply:
+            ink:
+              one: ""
+              other: ""
+            toner:
+              one: ""
+              other: ""
+          no_incentives:
+            ink: ""
+            toner: ""
+        info:
+          cancel_anytime:
+            ink_html: ""
+            toner_html: ""
+          incentives:
+            auto_apply: ""
+            free_months:
+              ink:
+                one: ""
+                other: ""
+              toner:
+                one: ""
+                other: ""
+            free_months_and_auto_apply:
+              ink:
+                one: ""
+                other: ""
+              toner:
+                one: ""
+                other: ""
+          incentives_puf:
+            auto_apply: ""
+            free_months:
+              ink:
+                one: ""
+                other: ""
+              toner:
+                one: ""
+                other: ""
+            free_months_and_auto_apply:
+              one: ""
+              other: ""
+          not_charged: ""
+          receive:
+            with_free_months:
+              ink: ""
+              toner: ""
+            with_no_free_months:
+              ink: ""
+              toner: ""
+        learn_more: ""
+        prepaid_disclaimer: ""
+        replacement:
+          account_info: ""
+          default_printer_name: ""
+          header: ""
+          promotional_info: ""
+        second_chance: ""
+        skip_free_modal:
+          back_to_offer: ""
+          cancel_anytime:
+            ink: ""
+            toner: ""
+          incentives_puf:
+            auto_apply:
+              ink:
+                one: ""
+                other: ""
+              toner:
+                one: ""
+                other: ""
+            free_months_and_auto_apply:
+              ink:
+                one: ""
+                other: ""
+              toner:
+                one: ""
+                other: ""
+          print_free:
+            one: ""
+            other: ""
+          receive_welcome:
+            ink: ""
+            toner: ""
+          remind_later: ""
+          share_info:
+            with_time:
+              one: ""
+              other: ""
+            without_time: ""
+          skip_offer: ""
+          title: ""
+          you_can_print: ""
+        skip_printing:
+          with_free_months:
+            ink: ""
+            toner: ""
+          with_no_free_months:
+            ink: ""
+            toner: ""
+        title: ""
+    web_enroll:
+      auto_applied_step:
+        content: ""
+        offer_duration:
+          months:
+            one: ""
+            other: ""
+          years:
+            one: ""
+            other: ""
+        offer_terms_title: ""
+        title: ""
+      call_me_back:
+        call_me: ""
+        call_me_back_modal:
+          agent_not_available: ""
+          description: ""
+          name: ""
+          name_error: ""
+          phone_number: ""
+          phone_number_error: ""
+          server_error: ""
+          submit: ""
+          success_message: ""
+          title: ""
+        need_help: ""
+        pick_the_best_plan: ""
+      code_step:
+        prepaid_body: ""
+        prepaid_title: ""
+...
